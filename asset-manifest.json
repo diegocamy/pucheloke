@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pucheloke/static/css/main.8c5d7a7f.chunk.css",
+    "main.js": "/pucheloke/static/js/main.fa2c68cc.chunk.js",
+    "main.js.map": "/pucheloke/static/js/main.fa2c68cc.chunk.js.map",
+    "runtime-main.js": "/pucheloke/static/js/runtime-main.916daa21.js",
+    "runtime-main.js.map": "/pucheloke/static/js/runtime-main.916daa21.js.map",
+    "static/js/2.5ef34e61.chunk.js": "/pucheloke/static/js/2.5ef34e61.chunk.js",
+    "static/js/2.5ef34e61.chunk.js.map": "/pucheloke/static/js/2.5ef34e61.chunk.js.map",
+    "index.html": "/pucheloke/index.html",
+    "precache-manifest.c9bd1cf786a1d5852c103ed9a383b302.js": "/pucheloke/precache-manifest.c9bd1cf786a1d5852c103ed9a383b302.js",
+    "service-worker.js": "/pucheloke/service-worker.js",
+    "static/css/main.8c5d7a7f.chunk.css.map": "/pucheloke/static/css/main.8c5d7a7f.chunk.css.map",
+    "static/js/2.5ef34e61.chunk.js.LICENSE": "/pucheloke/static/js/2.5ef34e61.chunk.js.LICENSE",
+    "static/media/Whats.css": "/pucheloke/static/media/background.adbccee0.png",
+    "static/media/puche.jpg": "/pucheloke/static/media/puche.365edea8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.916daa21.js",
+    "static/js/2.5ef34e61.chunk.js",
+    "static/css/main.8c5d7a7f.chunk.css",
+    "static/js/main.fa2c68cc.chunk.js"
+  ]
+}
