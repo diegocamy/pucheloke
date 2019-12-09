@@ -1,8 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## PucheLoke v1.0
+
+La verdadera experiencia de chatear por WhatsApp con el Puche
 
 ### `npm start`
 
